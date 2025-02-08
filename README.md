@@ -22,7 +22,7 @@
 RsyncForce es una herramienta que automatiza:
 
 #### ⭐ Directorios que no se pueden listar dentro del servicio Rsync.
-#### ⭐ Diccionario con palabras claves para reitarar en la enumeracion.
+#### ⭐ Diccionario con palabras claves para reiterar en la enumeracion.
 #### ⭐ IP privada del objetivo para apuntar.
 #### ⭐ Puerto donde se aloja el servicio Rsync (Si no se pone nada lo hara en el puerto predeterminado 873)
 
