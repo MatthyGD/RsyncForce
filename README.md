@@ -14,7 +14,7 @@
 
 # 🔍️ Descubre directorios ocultos con RsyncForce 
 
-![RsyncForce-8-2-2025](https://github.com/user-attachments/assets/38b324cd-a53d-4e8c-9286-179077abae0a)
+![RsyncForce-8-2-2025](https://github.com/user-attachments/assets/97fc3ba5-ce29-462e-a216-cf2f395731c7)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
