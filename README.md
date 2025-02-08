@@ -72,13 +72,13 @@ rsync rsync://rsync-connect@<IP victima>/<Directorio descubierto>/<Archivo que q
 
 ✅ 1 -> Ejemplo de uso de la herramienta RsyncForce:
 
-![1](https://github.com/user-attachments/assets/431caf9f-8525-42b7-9073-37a04673721e)
+![1](https://github.com/user-attachments/assets/44f242ad-aab0-4f7b-aefe-daffdb9135ca)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ 2 -> Ejemplo de como listar y descargar contenido:
 
-![2](https://github.com/user-attachments/assets/34e73675-b2da-4d46-9b88-a0ca367bfa68)
+![2](https://github.com/user-attachments/assets/48ca7ac1-b965-4f01-aa77-b4eabe6ef4a4)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
